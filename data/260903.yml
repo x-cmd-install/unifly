@@ -1,11 +1,13 @@
 about:
-  description: 🌐 Elegant UniFi network management CLI & TUI - for humans and agents
+  description:
+  |
+    🌐 Elegant UniFi network management CLI & TUI - for humans and agents
   license: Apache-2.0
   homepage: https://hyperb1iss.github.io/unifly/
   head: b565654
   archived: false
   latestVersion: v0.10.0
-  collectedAt: 2026-09-03T05:23:14Z
+  collectedAt: 2026-09-03T22:35:03Z
 timeline:
   created: 2026-02-13
   lastCommit: 2026-08-07
@@ -23,7 +25,7 @@ language:
   Shell: 13028
   Just: 4628
   PowerShell: 2928
-totalLine: 2215350
+totalBytes: 2215350
 recent:
   last30d:
     since: 2026-08-04
