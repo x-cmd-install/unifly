@@ -1,0 +1,59 @@
+about:
+  description: 🌐 Elegant UniFi network management CLI & TUI - for humans and agents
+  license: Apache-2.0
+  homepage: https://hyperb1iss.github.io/unifly/
+  head: b565654
+  archived: false
+  latestVersion: v0.10.0
+  collectedAt: 2026-09-03T05:23:14Z
+timeline:
+  created: 2026-02-13
+  lastCommit: 2026-08-07
+  lastRelease: 2026-08-07
+popularity:
+  star: 250
+  watcher: 3
+  fork: 15
+  release: 10
+  contributor: 7
+  pullRequest: 4
+  issue: 13
+language:
+  Rust: 2194766
+  Shell: 13028
+  Just: 4628
+  PowerShell: 2928
+totalLine: 2215350
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 1
+    mergedPR: 6
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 1
+  last90d:
+    since: 2026-06-05
+    release: 2
+    mergedPR: 9
+    openPR: 0
+    closedIssue: 2
+    openIssue: 0
+    commit: 49
+  last180d:
+    since: 2026-03-07
+    release: 9
+    mergedPR: 19
+    openPR: 0
+    closedIssue: 12
+    openIssue: 1
+    commit: 297
+  last360d:
+    since: 2025-09-08
+    release: 10
+    mergedPR: 19
+    openPR: 0
+    closedIssue: 12
+    openIssue: 1
+    commit: 394
