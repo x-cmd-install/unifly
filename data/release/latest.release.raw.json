@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 15317248,
       "digest": "sha256:a3017cfed6817d803021b3c1bcdbe49e310bef68e260ebf36f5a8ece60cd8dd1",
-      "download_count": 129,
+      "download_count": 131,
       "created_at": "2026-08-07T07:40:57Z",
       "updated_at": "2026-08-07T07:40:59Z",
       "browser_download_url": "https://github.com/hyperb1iss/unifly/releases/download/v0.10.0/unifly-macos-arm64"
