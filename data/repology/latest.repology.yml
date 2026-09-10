@@ -1,0 +1,35 @@
+- repo: aur
+  srcname: unifly
+  binname: unifly
+  visiblename: unifly
+  version: 0.9.1
+  origversion: 0.9.1-1
+  status: outdated
+  summary: CLI and TUI for managing UniFi network controllers
+  maintainers:
+    - ecys@aur
+  licenses:
+    - Apache-2.0
+- repo: aur
+  srcname: unifly-bin
+  binname: unifly-bin
+  visiblename: unifly-bin
+  version: 0.10.0
+  origversion: 0.10.0-1
+  status: newest
+  summary: CLI + TUI for managing UniFi network controllers
+  maintainers:
+    - hyperb1iss@aur
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: unifly
+  visiblename: unifly
+  version: 0.10.0
+  origversion: null
+  status: newest
+  summary: Elegant UniFi network management CLI & TUI - for humans and agents
+  maintainers:
+    - beneritter@gmail.com
+  licenses:
+    - Apache-2.0
