@@ -38,22 +38,22 @@ Total: **71,459** lines of code across **373** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 258 · **Forks**: 17 · **Open issues**: 13 · **Contributors**: 7
+- **Stars**: 259 · **Forks**: 17 · **Open issues**: 13 · **Contributors**: 7
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 19 · **Open PRs**: 0 · **Closed issues**: 12 · **Open issues**: 1 · **Commits**: 398
+- **Releases**: 10 · **Merged PRs**: 19 · **Open PRs**: 1 · **Closed issues**: 12 · **Open issues**: 1 · **Commits**: 398
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-23 | 1 | 9 | 0 | 1 | 0 | 39 |
-| 90d | 2026-06-23 | 2 | 9 | 0 | 2 | 0 | 42 |
-| last180d | 2026-03-25 | 9 | 19 | 0 | 12 | 1 | 194 |
-| 360d | 2025-09-26 | 10 | 19 | 0 | 12 | 1 | 394 |
-| last720d | 2024-10-01 | 10 | 19 | 0 | 12 | 1 | 398 |
+| 30d | 2026-08-23 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-24 | 1 | 9 | 1 | 1 | 0 | 39 |
+| 90d | 2026-06-24 | 2 | 9 | 1 | 2 | 0 | 42 |
+| last180d | 2026-03-26 | 9 | 19 | 1 | 12 | 1 | 194 |
+| 360d | 2025-09-27 | 10 | 19 | 1 | 12 | 1 | 394 |
+| last720d | 2024-10-02 | 10 | 19 | 1 | 12 | 1 | 398 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for unifly lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:15:03Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:09:52Z._
