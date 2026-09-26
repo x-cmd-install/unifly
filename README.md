@@ -42,18 +42,18 @@ Total: **71,459** lines of code across **373** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 19 · **Open PRs**: 1 · **Closed issues**: 12 · **Open issues**: 1 · **Commits**: 398
+- **Releases**: 10 · **Merged PRs**: 19 · **Open PRs**: 2 · **Closed issues**: 12 · **Open issues**: 1 · **Commits**: 398
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-27 | 1 | 9 | 1 | 1 | 0 | 39 |
-| 90d | 2026-06-27 | 1 | 9 | 1 | 2 | 0 | 42 |
-| last180d | 2026-03-29 | 8 | 19 | 1 | 11 | 1 | 194 |
-| 360d | 2025-09-30 | 10 | 19 | 1 | 12 | 1 | 394 |
-| last720d | 2024-10-05 | 10 | 19 | 1 | 12 | 1 | 398 |
+| 30d | 2026-08-27 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-28 | 1 | 9 | 2 | 1 | 0 | 39 |
+| 90d | 2026-06-28 | 1 | 9 | 2 | 2 | 0 | 42 |
+| last180d | 2026-03-30 | 8 | 19 | 2 | 11 | 1 | 194 |
+| 360d | 2025-10-01 | 10 | 19 | 2 | 12 | 1 | 394 |
+| last720d | 2024-10-06 | 10 | 19 | 2 | 12 | 1 | 398 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for unifly lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:08:44Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:01:34Z._
