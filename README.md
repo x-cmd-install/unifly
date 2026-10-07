@@ -38,7 +38,7 @@ Total: **71,459** lines of code across **373** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 264 · **Forks**: 17 · **Open issues**: 13 · **Contributors**: 7
+- **Stars**: 263 · **Forks**: 17 · **Open issues**: 13 · **Contributors**: 7
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **71,459** lines of code across **373** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-08-07 | 1 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-07-08 | 1 | 9 | 2 | 1 | 0 | 39 |
-| last180d | 2026-04-09 | 4 | 17 | 2 | 6 | 1 | 90 |
-| 360d | 2025-10-11 | 10 | 19 | 2 | 12 | 1 | 394 |
-| last720d | 2024-10-16 | 10 | 19 | 2 | 12 | 1 | 398 |
+| 30d | 2026-09-07 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-08-08 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 90d | 2026-07-09 | 1 | 9 | 2 | 1 | 0 | 39 |
+| last180d | 2026-04-10 | 4 | 17 | 2 | 5 | 1 | 90 |
+| 360d | 2025-10-12 | 10 | 19 | 2 | 12 | 1 | 394 |
+| last720d | 2024-10-17 | 10 | 19 | 2 | 12 | 1 | 398 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for unifly lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:28:29Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:00:50Z._
