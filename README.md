@@ -14,15 +14,15 @@ x install unifly
 
 ## Code insight
 
-Total: **71,459** lines of code across **373** files in the top 5 languages.
+Total: **74,401** lines of code across **377** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 56,086 | 843 | 7,134 | 336 |
+| Rust | 58,582 | 963 | 7,392 | 339 |
 | Json | 11,640 | 0 | 0 | 10 |
-| Sass | 1,715 | 134 | 351 | 9 |
-| Html | 554 | 0 | 19 | 13 |
-| JavaScript | 549 | 34 | 77 | 5 |
+| Sass | 1,743 | 137 | 356 | 9 |
+| Html | 626 | 0 | 21 | 14 |
+| JavaScript | 557 | 39 | 79 | 5 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **71,459** lines of code across **373** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.10.0` (2026-08-07)
-- **Last commit**: 2026-08-07
+- **Last commit**: 2026-10-12
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 267 · **Forks**: 17 · **Open issues**: 13 · **Contributors**: 7
+- **Stars**: 268 · **Forks**: 17 · **Open issues**: 13 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 19 · **Open PRs**: 2 · **Closed issues**: 12 · **Open issues**: 1 · **Commits**: 398
+- **Releases**: 10 · **Merged PRs**: 33 · **Open PRs**: 0 · **Closed issues**: 12 · **Open issues**: 1 · **Commits**: 415
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-08-12 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-07-13 | 1 | 9 | 2 | 1 | 0 | 39 |
-| last180d | 2026-04-14 | 3 | 16 | 2 | 5 | 0 | 88 |
-| 360d | 2025-10-16 | 10 | 19 | 2 | 12 | 1 | 394 |
-| last720d | 2024-10-21 | 10 | 19 | 2 | 12 | 1 | 398 |
+| 30d | 2026-09-12 | 0 | 14 | 0 | 0 | 0 | 17 |
+| last60d | 2026-08-13 | 0 | 14 | 0 | 0 | 0 | 17 |
+| 90d | 2026-07-14 | 1 | 23 | 0 | 1 | 0 | 56 |
+| last180d | 2026-04-15 | 3 | 30 | 0 | 4 | 0 | 105 |
+| 360d | 2025-10-17 | 10 | 33 | 0 | 12 | 1 | 411 |
+| last720d | 2024-10-22 | 10 | 33 | 0 | 12 | 1 | 415 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for unifly lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:53:47Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:04:50Z._
