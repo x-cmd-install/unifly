@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 19248792,
       "digest": "sha256:df67dc26ef16dd96a6c474d8e7da4e2c4dc7ddc9352e4884641ee70344f21bca",
-      "download_count": 24,
+      "download_count": 28,
       "created_at": "2026-10-12T20:13:23Z",
       "updated_at": "2026-10-12T20:13:24Z",
       "browser_download_url": "https://github.com/hyperb1iss/unifly/releases/download/v0.11.0/unifly-linux-amd64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 13471168,
       "digest": "sha256:101d7d6f55cd02bc813d0ec76980f7856411fa8836bc403d4d063f76852812c6",
-      "download_count": 34,
+      "download_count": 39,
       "created_at": "2026-10-12T20:13:23Z",
       "updated_at": "2026-10-12T20:13:24Z",
       "browser_download_url": "https://github.com/hyperb1iss/unifly/releases/download/v0.11.0/unifly-macos-arm64"
