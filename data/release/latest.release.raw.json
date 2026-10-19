@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 29045253,
       "digest": "sha256:ed267140836e7a0743a0c3f64b825f30e8a55b3699fb75e504cbd4e998b2dad6",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-10-12T21:03:04Z",
       "updated_at": "2026-10-12T21:03:06Z",
       "browser_download_url": "https://github.com/hyperb1iss/unifly/releases/download/v0.11.0/unifly-0.11.0-promo-1080p.mp4"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 11993733,
       "digest": "sha256:3da439f61163f526dd036935e236c46c0c073b7a709b119a492f8b8db7564f05",
-      "download_count": 2,
+      "download_count": 5,
       "created_at": "2026-10-12T21:03:04Z",
       "updated_at": "2026-10-12T21:03:05Z",
       "browser_download_url": "https://github.com/hyperb1iss/unifly/releases/download/v0.11.0/unifly-0.11.0-promo-720p.mp4"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 19248792,
       "digest": "sha256:df67dc26ef16dd96a6c474d8e7da4e2c4dc7ddc9352e4884641ee70344f21bca",
-      "download_count": 40,
+      "download_count": 49,
       "created_at": "2026-10-12T20:13:23Z",
       "updated_at": "2026-10-12T20:13:24Z",
       "browser_download_url": "https://github.com/hyperb1iss/unifly/releases/download/v0.11.0/unifly-linux-amd64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 16134296,
       "digest": "sha256:8beedf0f338e9aa34ec40a375093f8568da4e863559c66ce4da593bfb34cdb05",
-      "download_count": 8,
+      "download_count": 12,
       "created_at": "2026-10-12T20:13:23Z",
       "updated_at": "2026-10-12T20:13:24Z",
       "browser_download_url": "https://github.com/hyperb1iss/unifly/releases/download/v0.11.0/unifly-linux-arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 13471168,
       "digest": "sha256:101d7d6f55cd02bc813d0ec76980f7856411fa8836bc403d4d063f76852812c6",
-      "download_count": 58,
+      "download_count": 70,
       "created_at": "2026-10-12T20:13:23Z",
       "updated_at": "2026-10-12T20:13:24Z",
       "browser_download_url": "https://github.com/hyperb1iss/unifly/releases/download/v0.11.0/unifly-macos-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 15934976,
       "digest": "sha256:1c86d5d8071b24d4bd41abd5916089832564ae00d9f58c0e98d6917b7fb5b9df",
-      "download_count": 11,
+      "download_count": 14,
       "created_at": "2026-10-12T20:13:23Z",
       "updated_at": "2026-10-12T20:13:24Z",
       "browser_download_url": "https://github.com/hyperb1iss/unifly/releases/download/v0.11.0/unifly-windows-amd64.exe"
