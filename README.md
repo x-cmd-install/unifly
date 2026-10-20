@@ -14,11 +14,11 @@ x install unifly
 
 ## Code insight
 
-Total: **88,687** lines of code across **421** files in the top 5 languages.
+Total: **90,337** lines of code across **422** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 72,808 | 1,267 | 8,749 | 383 |
+| Rust | 74,458 | 1,316 | 8,961 | 384 |
 | Json | 11,640 | 0 | 0 | 10 |
 | Sass | 1,743 | 137 | 356 | 9 |
 | Html | 626 | 0 | 21 | 14 |
@@ -33,7 +33,7 @@ Total: **88,687** lines of code across **421** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.11.0` (2026-10-12)
-- **Last commit**: 2026-10-12
+- **Last commit**: 2026-10-20
 - **Assets in release**: 6
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **88,687** lines of code across **421** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 11 · **Merged PRs**: 49 · **Open PRs**: 0 · **Closed issues**: 12 · **Open issues**: 2 · **Commits**: 484
+- **Releases**: 11 · **Merged PRs**: 50 · **Open PRs**: 0 · **Closed issues**: 13 · **Open issues**: 1 · **Commits**: 485
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 1 | 30 | 0 | 0 | 1 | 86 |
-| last60d | 2026-08-20 | 1 | 30 | 0 | 0 | 1 | 86 |
-| 90d | 2026-07-21 | 2 | 39 | 0 | 1 | 1 | 125 |
-| last180d | 2026-04-22 | 4 | 46 | 0 | 4 | 1 | 174 |
-| 360d | 2025-10-24 | 11 | 49 | 0 | 12 | 2 | 480 |
-| last720d | 2024-10-29 | 11 | 49 | 0 | 12 | 2 | 484 |
+| 30d | 2026-09-20 | 1 | 31 | 0 | 1 | 0 | 87 |
+| last60d | 2026-08-21 | 1 | 31 | 0 | 1 | 0 | 87 |
+| 90d | 2026-07-22 | 2 | 40 | 0 | 2 | 0 | 126 |
+| last180d | 2026-04-23 | 4 | 47 | 0 | 5 | 0 | 175 |
+| 360d | 2025-10-25 | 11 | 50 | 0 | 13 | 1 | 481 |
+| last720d | 2024-10-30 | 11 | 50 | 0 | 13 | 1 | 485 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for unifly lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:43:39Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T04:53:25Z._
