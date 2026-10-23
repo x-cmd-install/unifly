@@ -48,12 +48,12 @@ Total: **96,892** lines of code across **426** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 35 | 0 | 1 | 0 | 92 |
-| last60d | 2026-08-23 | 1 | 36 | 0 | 1 | 0 | 92 |
-| 90d | 2026-07-24 | 2 | 45 | 0 | 2 | 0 | 131 |
-| last180d | 2026-04-25 | 4 | 52 | 0 | 5 | 0 | 180 |
-| 360d | 2025-10-27 | 11 | 55 | 0 | 13 | 1 | 486 |
-| last720d | 2024-11-01 | 11 | 55 | 0 | 13 | 1 | 490 |
+| 30d | 2026-09-23 | 1 | 35 | 0 | 1 | 0 | 92 |
+| last60d | 2026-08-24 | 1 | 36 | 0 | 1 | 0 | 92 |
+| 90d | 2026-07-25 | 2 | 45 | 0 | 2 | 0 | 131 |
+| last180d | 2026-04-26 | 4 | 52 | 0 | 5 | 0 | 180 |
+| 360d | 2025-10-28 | 11 | 55 | 0 | 13 | 1 | 486 |
+| last720d | 2024-11-02 | 11 | 55 | 0 | 13 | 1 | 490 |
 
 ## Release assets
 
@@ -66,6 +66,14 @@ Total: **96,892** lines of code across **426** files in the top 5 languages.
 | [unifly-macos-arm64](https://github.com/hyperb1iss/unifly/releases/download/v0.11.0/unifly-macos-arm64) | 12.8 MiB | `native/darwin/arm64` |
 | [unifly-windows-amd64.exe](https://github.com/hyperb1iss/unifly/releases/download/v0.11.0/unifly-windows-amd64.exe) | 15.2 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **3** distros on [repology.org](https://repology.org/project/unifly). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.11.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for unifly lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `unifly` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -75,4 +83,4 @@ Install metadata for unifly lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:49:31Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:50:46Z._
