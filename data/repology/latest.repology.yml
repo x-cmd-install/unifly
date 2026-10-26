@@ -14,8 +14,8 @@
   srcname: unifly-bin
   binname: unifly-bin
   visiblename: unifly-bin
-  version: 0.11.0
-  origversion: 0.11.0-1
+  version: 0.12.0
+  origversion: 0.12.0-1
   status: newest
   summary: CLI + TUI for managing UniFi network controllers
   maintainers:
@@ -27,7 +27,7 @@
   visiblename: unifly
   version: 0.11.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Elegant UniFi network management CLI & TUI - for humans and agents
   maintainers:
     - beneritter@gmail.com
