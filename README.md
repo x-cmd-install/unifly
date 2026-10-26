@@ -32,47 +32,45 @@ Total: **96,892** lines of code across **426** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.11.0` (2026-10-12)
-- **Last commit**: 2026-10-20
-- **Assets in release**: 6
+- **Latest**: `v0.12.0` (2026-10-25)
+- **Last commit**: 2026-10-25
+- **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 272 · **Forks**: 17 · **Open issues**: 14 · **Contributors**: 9
+- **Stars**: 272 · **Forks**: 17 · **Open issues**: 15 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 11 · **Merged PRs**: 55 · **Open PRs**: 0 · **Closed issues**: 13 · **Open issues**: 1 · **Commits**: 490
+- **Releases**: 12 · **Merged PRs**: 56 · **Open PRs**: 0 · **Closed issues**: 13 · **Open issues**: 2 · **Commits**: 493
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 1 | 34 | 0 | 1 | 0 | 92 |
-| last60d | 2026-08-26 | 1 | 36 | 0 | 1 | 0 | 92 |
-| 90d | 2026-07-27 | 2 | 45 | 0 | 2 | 0 | 131 |
-| last180d | 2026-04-28 | 4 | 52 | 0 | 5 | 0 | 180 |
-| 360d | 2025-10-30 | 11 | 55 | 0 | 13 | 1 | 486 |
-| last720d | 2024-11-04 | 11 | 55 | 0 | 13 | 1 | 490 |
+| 30d | 2026-09-26 | 2 | 35 | 0 | 1 | 1 | 95 |
+| last60d | 2026-08-27 | 2 | 37 | 0 | 1 | 1 | 95 |
+| 90d | 2026-07-28 | 3 | 46 | 0 | 2 | 1 | 134 |
+| last180d | 2026-04-29 | 5 | 53 | 0 | 5 | 1 | 183 |
+| 360d | 2025-10-31 | 12 | 56 | 0 | 13 | 2 | 489 |
+| last720d | 2024-11-05 | 12 | 56 | 0 | 13 | 2 | 493 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [unifly-0.11.0-promo-1080p.mp4](https://github.com/hyperb1iss/unifly/releases/download/v0.11.0/unifly-0.11.0-promo-1080p.mp4) | 27.7 MiB | `other` |
-| [unifly-0.11.0-promo-720p.mp4](https://github.com/hyperb1iss/unifly/releases/download/v0.11.0/unifly-0.11.0-promo-720p.mp4) | 11.4 MiB | `other` |
-| [unifly-linux-amd64](https://github.com/hyperb1iss/unifly/releases/download/v0.11.0/unifly-linux-amd64) | 18.4 MiB | `native/linux/x64` |
-| [unifly-linux-arm64](https://github.com/hyperb1iss/unifly/releases/download/v0.11.0/unifly-linux-arm64) | 15.4 MiB | `native/linux/arm64` |
-| [unifly-macos-arm64](https://github.com/hyperb1iss/unifly/releases/download/v0.11.0/unifly-macos-arm64) | 12.8 MiB | `native/darwin/arm64` |
-| [unifly-windows-amd64.exe](https://github.com/hyperb1iss/unifly/releases/download/v0.11.0/unifly-windows-amd64.exe) | 15.2 MiB | `native/win/x64` |
+| [unifly-linux-amd64](https://github.com/hyperb1iss/unifly/releases/download/v0.12.0/unifly-linux-amd64) | 18.6 MiB | `native/linux/x64` |
+| [unifly-linux-arm64](https://github.com/hyperb1iss/unifly/releases/download/v0.12.0/unifly-linux-arm64) | 15.6 MiB | `native/linux/arm64` |
+| [unifly-macos-arm64](https://github.com/hyperb1iss/unifly/releases/download/v0.12.0/unifly-macos-arm64) | 13.0 MiB | `native/darwin/arm64` |
+| [unifly-windows-amd64.exe](https://github.com/hyperb1iss/unifly/releases/download/v0.12.0/unifly-windows-amd64.exe) | 15.4 MiB | `native/win/x64` |
 
 ## Distribution status
 
-Reported by **3** distros on [repology.org](https://repology.org/project/unifly). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+Reported by **3** distros on [repology.org](https://repology.org/project/unifly). **1** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Nix unstable | `0.11.0` | ✅ latest |
+| Nix unstable | `0.11.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -83,4 +81,4 @@ Install metadata for unifly lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:42:51Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T04:51:22Z._
