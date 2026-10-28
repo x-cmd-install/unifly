@@ -48,12 +48,12 @@ Total: **96,892** lines of code across **426** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 2 | 35 | 0 | 1 | 0 | 95 |
-| last60d | 2026-08-28 | 2 | 37 | 0 | 1 | 0 | 95 |
-| 90d | 2026-07-29 | 3 | 46 | 0 | 2 | 0 | 134 |
-| last180d | 2026-04-30 | 5 | 53 | 0 | 4 | 0 | 183 |
-| 360d | 2025-11-01 | 12 | 56 | 0 | 13 | 1 | 489 |
-| last720d | 2024-11-06 | 12 | 56 | 0 | 13 | 1 | 493 |
+| 30d | 2026-09-28 | 2 | 35 | 0 | 1 | 0 | 95 |
+| last60d | 2026-08-29 | 2 | 37 | 0 | 1 | 0 | 95 |
+| 90d | 2026-07-30 | 3 | 46 | 0 | 1 | 0 | 134 |
+| last180d | 2026-05-01 | 5 | 50 | 0 | 4 | 0 | 183 |
+| 360d | 2025-11-02 | 12 | 56 | 0 | 13 | 1 | 489 |
+| last720d | 2024-11-07 | 12 | 56 | 0 | 13 | 1 | 493 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for unifly lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:09:00Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:49:46Z._
