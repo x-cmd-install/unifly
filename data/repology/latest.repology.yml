@@ -25,9 +25,9 @@
 - repo: nix_unstable
   srcname: unifly
   visiblename: unifly
-  version: 0.11.0
+  version: 0.12.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Elegant UniFi network management CLI & TUI - for humans and agents
   maintainers:
     - beneritter@gmail.com
