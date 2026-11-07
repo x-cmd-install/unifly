@@ -14,12 +14,12 @@ x install unifly
 
 ## 代码洞察
 
-合计: **96,960** 行代码（覆盖前 5 种语言、共 **426** 个文件）。
+合计: **108,119** 行代码（覆盖前 5 种语言、共 **479** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 81,081 | 1,455 | 9,699 | 388 |
-| Json | 11,640 | 0 | 0 | 10 |
+| Rust | 91,051 | 1,435 | 10,199 | 441 |
+| Json | 12,825 | 0 | 0 | 10 |
 | Sass | 1,743 | 137 | 356 | 9 |
 | Html | 626 | 0 | 21 | 14 |
 | JavaScript | 557 | 39 | 79 | 5 |
@@ -32,45 +32,45 @@ x install unifly
 
 ## 发布
 
-- **最新版本**: `v0.12.0` (2026-10-25)
-- **最近提交**: 2026-10-31
+- **最新版本**: `v0.13.0` (2026-11-07)
+- **最近提交**: 2026-11-07
 - **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 275 · **Fork**: 17 · **开放 issue**: 14 · **贡献者**: 10
+- **Star**: 276 · **Fork**: 17 · **开放 issue**: 14 · **贡献者**: 10
 
 ## 累计统计
 
-- **发布数**: 12 · **已合并 PR**: 57 · **开放 PR**: 0 · **已关闭 issue**: 13 · **开放 issue**: 1 · **提交数**: 494
+- **发布数**: 14 · **已合并 PR**: 60 · **开放 PR**: 0 · **已关闭 issue**: 13 · **开放 issue**: 1 · **提交数**: 499
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 2 | 36 | 0 | 1 | 0 | 96 |
-| last60d | 2026-09-07 | 2 | 38 | 0 | 1 | 0 | 96 |
-| 90d | 2026-08-08 | 2 | 38 | 0 | 1 | 0 | 96 |
-| last180d | 2026-05-10 | 4 | 48 | 0 | 4 | 0 | 174 |
-| 360d | 2025-11-11 | 12 | 57 | 0 | 13 | 1 | 490 |
-| last720d | 2024-11-16 | 12 | 57 | 0 | 13 | 1 | 494 |
+| 30d | 2026-10-08 | 4 | 39 | 0 | 1 | 0 | 101 |
+| last60d | 2026-09-08 | 4 | 41 | 0 | 1 | 0 | 101 |
+| 90d | 2026-08-09 | 4 | 41 | 0 | 1 | 0 | 101 |
+| last180d | 2026-05-11 | 6 | 51 | 0 | 4 | 0 | 179 |
+| 360d | 2025-11-12 | 14 | 60 | 0 | 13 | 1 | 495 |
+| last720d | 2024-11-17 | 14 | 60 | 0 | 13 | 1 | 499 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [unifly-linux-amd64](https://github.com/hyperb1iss/unifly/releases/download/v0.12.0/unifly-linux-amd64) | 18.6 MiB | `native/linux/x64` |
-| [unifly-linux-arm64](https://github.com/hyperb1iss/unifly/releases/download/v0.12.0/unifly-linux-arm64) | 15.6 MiB | `native/linux/arm64` |
-| [unifly-macos-arm64](https://github.com/hyperb1iss/unifly/releases/download/v0.12.0/unifly-macos-arm64) | 13.0 MiB | `native/darwin/arm64` |
-| [unifly-windows-amd64.exe](https://github.com/hyperb1iss/unifly/releases/download/v0.12.0/unifly-windows-amd64.exe) | 15.4 MiB | `native/win/x64` |
+| [unifly-linux-amd64](https://github.com/hyperb1iss/unifly/releases/download/v0.13.0/unifly-linux-amd64) | 19.5 MiB | `native/linux/x64` |
+| [unifly-linux-arm64](https://github.com/hyperb1iss/unifly/releases/download/v0.13.0/unifly-linux-arm64) | 16.3 MiB | `native/linux/arm64` |
+| [unifly-macos-arm64](https://github.com/hyperb1iss/unifly/releases/download/v0.13.0/unifly-macos-arm64) | 13.7 MiB | `native/darwin/arm64` |
+| [unifly-windows-amd64.exe](https://github.com/hyperb1iss/unifly/releases/download/v0.13.0/unifly-windows-amd64.exe) | 16.3 MiB | `native/win/x64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/unifly) 上共有 **3** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/unifly) 上共有 **3** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Nix unstable | `0.12.0` | ✅ latest |
+| Nix unstable | `0.12.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -81,4 +81,4 @@ unifly 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261106.yml` · 2026-11-06T06:53:03Z._
+_数据快照: `data/card/261107.yml` · 2026-11-07T06:08:22Z._
