@@ -48,12 +48,12 @@ Total: **108,119** lines of code across **479** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 3 | 11 | 0 | 0 | 0 | 15 |
-| last60d | 2026-09-13 | 4 | 41 | 0 | 1 | 0 | 101 |
-| 90d | 2026-08-14 | 4 | 41 | 0 | 1 | 0 | 101 |
-| last180d | 2026-05-16 | 6 | 51 | 0 | 4 | 0 | 168 |
-| 360d | 2025-11-17 | 14 | 60 | 0 | 13 | 1 | 495 |
-| last720d | 2024-11-22 | 14 | 60 | 0 | 13 | 1 | 499 |
+| 30d | 2026-10-14 | 3 | 11 | 0 | 0 | 0 | 15 |
+| last60d | 2026-09-14 | 4 | 41 | 0 | 1 | 0 | 101 |
+| 90d | 2026-08-15 | 4 | 41 | 0 | 1 | 0 | 101 |
+| last180d | 2026-05-17 | 6 | 51 | 0 | 4 | 0 | 168 |
+| 360d | 2025-11-18 | 14 | 60 | 0 | 13 | 1 | 495 |
+| last720d | 2024-11-23 | 14 | 60 | 0 | 13 | 1 | 499 |
 
 ## Release assets
 
@@ -66,11 +66,11 @@ Total: **108,119** lines of code across **479** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **3** distros on [repology.org](https://repology.org/project/unifly). **1** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+Reported by **3** distros on [repology.org](https://repology.org/project/unifly). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Nix unstable | `0.12.0` | ⚠️ outdated |
+| Nix unstable | `0.13.0` | ✅ latest |
 
 ## Improve this data
 
@@ -81,4 +81,4 @@ Install metadata for unifly lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:22:13Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T06:51:13Z._
