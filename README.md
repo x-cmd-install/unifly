@@ -14,11 +14,11 @@ x install unifly
 
 ## Code insight
 
-Total: **142,105** lines of code across **542** files in the top 5 languages.
+Total: **143,175** lines of code across **547** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 125,037 | 2,423 | 13,341 | 504 |
+| Rust | 126,107 | 2,451 | 13,411 | 509 |
 | Json | 12,825 | 0 | 0 | 10 |
 | Sass | 1,743 | 137 | 356 | 9 |
 | Html | 626 | 0 | 21 | 14 |
@@ -32,7 +32,7 @@ Total: **142,105** lines of code across **542** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.14.0` (2026-11-16)
+- **Latest**: `v0.15.0` (2026-11-16)
 - **Last commit**: 2026-11-16
 - **Assets in release**: 4
 
@@ -42,27 +42,27 @@ Total: **142,105** lines of code across **542** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 15 · **Merged PRs**: 63 · **Open PRs**: 0 · **Closed issues**: 13 · **Open issues**: 1 · **Commits**: 503
+- **Releases**: 16 · **Merged PRs**: 64 · **Open PRs**: 1 · **Closed issues**: 13 · **Open issues**: 1 · **Commits**: 505
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 4 | 14 | 0 | 0 | 0 | 13 |
-| last60d | 2026-09-17 | 5 | 44 | 0 | 1 | 0 | 105 |
-| 90d | 2026-08-18 | 5 | 44 | 0 | 1 | 0 | 105 |
-| last180d | 2026-05-20 | 7 | 54 | 0 | 4 | 0 | 171 |
-| 360d | 2025-11-21 | 15 | 63 | 0 | 13 | 1 | 499 |
-| last720d | 2024-11-26 | 15 | 63 | 0 | 13 | 1 | 503 |
+| 30d | 2026-10-18 | 5 | 15 | 1 | 0 | 0 | 15 |
+| last60d | 2026-09-18 | 6 | 45 | 1 | 1 | 0 | 107 |
+| 90d | 2026-08-19 | 6 | 45 | 1 | 1 | 0 | 107 |
+| last180d | 2026-05-21 | 8 | 55 | 1 | 4 | 0 | 173 |
+| 360d | 2025-11-22 | 16 | 64 | 1 | 13 | 1 | 501 |
+| last720d | 2024-11-27 | 16 | 64 | 1 | 13 | 1 | 505 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [unifly-linux-amd64](https://github.com/hyperb1iss/unifly/releases/download/v0.14.0/unifly-linux-amd64) | 20.7 MiB | `native/linux/x64` |
-| [unifly-linux-arm64](https://github.com/hyperb1iss/unifly/releases/download/v0.14.0/unifly-linux-arm64) | 17.2 MiB | `native/linux/arm64` |
-| [unifly-macos-arm64](https://github.com/hyperb1iss/unifly/releases/download/v0.14.0/unifly-macos-arm64) | 14.6 MiB | `native/darwin/arm64` |
-| [unifly-windows-amd64.exe](https://github.com/hyperb1iss/unifly/releases/download/v0.14.0/unifly-windows-amd64.exe) | 17.4 MiB | `native/win/x64` |
+| [unifly-linux-amd64](https://github.com/hyperb1iss/unifly/releases/download/v0.15.0/unifly-linux-amd64) | 20.7 MiB | `native/linux/x64` |
+| [unifly-linux-arm64](https://github.com/hyperb1iss/unifly/releases/download/v0.15.0/unifly-linux-arm64) | 17.3 MiB | `native/linux/arm64` |
+| [unifly-macos-arm64](https://github.com/hyperb1iss/unifly/releases/download/v0.15.0/unifly-macos-arm64) | 14.6 MiB | `native/darwin/arm64` |
+| [unifly-windows-amd64.exe](https://github.com/hyperb1iss/unifly/releases/download/v0.15.0/unifly-windows-amd64.exe) | 17.5 MiB | `native/win/x64` |
 
 ## Distribution status
 
@@ -81,4 +81,4 @@ Install metadata for unifly lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:45:15Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:59:04Z._
