@@ -38,7 +38,7 @@ Total: **143,175** lines of code across **547** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 279 · **Forks**: 17 · **Open issues**: 14 · **Contributors**: 10
+- **Stars**: 281 · **Forks**: 17 · **Open issues**: 14 · **Contributors**: 10
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **143,175** lines of code across **547** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 5 | 8 | 2 | 0 | 0 | 12 |
-| last60d | 2026-09-25 | 6 | 43 | 2 | 1 | 0 | 107 |
-| 90d | 2026-08-26 | 6 | 45 | 2 | 1 | 0 | 107 |
-| last180d | 2026-05-28 | 8 | 54 | 2 | 4 | 0 | 172 |
-| 360d | 2025-11-29 | 16 | 64 | 2 | 13 | 1 | 501 |
-| last720d | 2024-12-04 | 16 | 64 | 2 | 13 | 1 | 505 |
+| 30d | 2026-10-26 | 4 | 8 | 2 | 0 | 0 | 12 |
+| last60d | 2026-09-26 | 6 | 43 | 2 | 1 | 0 | 107 |
+| 90d | 2026-08-27 | 6 | 45 | 2 | 1 | 0 | 107 |
+| last180d | 2026-05-29 | 8 | 54 | 2 | 4 | 0 | 172 |
+| 360d | 2025-11-30 | 16 | 64 | 2 | 13 | 1 | 501 |
+| last720d | 2024-12-05 | 16 | 64 | 2 | 13 | 1 | 505 |
 
 ## Release assets
 
@@ -64,14 +64,6 @@ Total: **143,175** lines of code across **547** files in the top 5 languages.
 | [unifly-macos-arm64](https://github.com/hyperb1iss/unifly/releases/download/v0.15.0/unifly-macos-arm64) | 14.6 MiB | `native/darwin/arm64` |
 | [unifly-windows-amd64.exe](https://github.com/hyperb1iss/unifly/releases/download/v0.15.0/unifly-windows-amd64.exe) | 17.5 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **3** distros on [repology.org](https://repology.org/project/unifly). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.15.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for unifly lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `unifly` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -81,4 +73,4 @@ Install metadata for unifly lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:55:25Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:42:12Z._

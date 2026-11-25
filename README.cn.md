@@ -38,7 +38,7 @@ x install unifly
 
 ## 流行度
 
-- **Star**: 279 · **Fork**: 17 · **开放 issue**: 14 · **贡献者**: 10
+- **Star**: 281 · **Fork**: 17 · **开放 issue**: 14 · **贡献者**: 10
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install unifly
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 5 | 8 | 2 | 0 | 0 | 12 |
-| last60d | 2026-09-25 | 6 | 43 | 2 | 1 | 0 | 107 |
-| 90d | 2026-08-26 | 6 | 45 | 2 | 1 | 0 | 107 |
-| last180d | 2026-05-28 | 8 | 54 | 2 | 4 | 0 | 172 |
-| 360d | 2025-11-29 | 16 | 64 | 2 | 13 | 1 | 501 |
-| last720d | 2024-12-04 | 16 | 64 | 2 | 13 | 1 | 505 |
+| 30d | 2026-10-26 | 4 | 8 | 2 | 0 | 0 | 12 |
+| last60d | 2026-09-26 | 6 | 43 | 2 | 1 | 0 | 107 |
+| 90d | 2026-08-27 | 6 | 45 | 2 | 1 | 0 | 107 |
+| last180d | 2026-05-29 | 8 | 54 | 2 | 4 | 0 | 172 |
+| 360d | 2025-11-30 | 16 | 64 | 2 | 13 | 1 | 501 |
+| last720d | 2024-12-05 | 16 | 64 | 2 | 13 | 1 | 505 |
 
 ## Release 资产
 
@@ -64,14 +64,6 @@ x install unifly
 | [unifly-macos-arm64](https://github.com/hyperb1iss/unifly/releases/download/v0.15.0/unifly-macos-arm64) | 14.6 MiB | `native/darwin/arm64` |
 | [unifly-windows-amd64.exe](https://github.com/hyperb1iss/unifly/releases/download/v0.15.0/unifly-windows-amd64.exe) | 17.5 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/unifly) 上共有 **3** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Nix unstable | `0.15.0` | ✅ latest |
-
 ## 改进这些数据
 
 unifly 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `unifly` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -81,4 +73,4 @@ unifly 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T09:55:26Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:42:12Z._
